@@ -1,14 +1,22 @@
 ---
-title: "Paper Title Number 2"
+title: "A positivity preserving second-order scheme for multi-dimensional system of non-local conservation laws"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'We present a fully discrete, second-order scheme for a general class of non-local conservation law systems in multiple spatial dimensions.'
+date: 2024-12-24
+venue: 
+slidesurl: ''
+paperurl: 'https://arxiv.org/abs/2412.18475'
+citation: 'Manoj N., Gowda G.D.V., Kenettinkara S.K., (2024). &quot;A positivity preserving second-order scheme for multi-dimensional system of non-local conservation laws.&quot; <i>arxiv preprint </i>.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this article, we present and analyze a fully discrete second-
+order scheme for a general class of non-local system of conservation laws
+in multiple spatial dimensions. The method employs a MUSCL-type spatial
+reconstruction coupled with Runge-Kutta time integration. We analytically
+prove that the proposed scheme preserves the positivity in all the unknowns,
+a critical property for ensuring the physical validity of quantities like density,
+which must remain non-negative. Additionally, the scheme is proven to exhibit
+L∞ -stability. Numerical experiments conducted on both the non-local scalar
+and system cases illustrate the importance of the second-order scheme when
+compared to its first-order counterpart and verify the theoretical results.
