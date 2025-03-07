@@ -1,7 +1,7 @@
 ---
 title: "Teaching assistantship at IISER TVM"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate/ postgraduate courses"
 permalink: /teaching/2014-spring-teaching-1
 venue: "IISER Thiruvananthapuram, School of Mathematics"
 date: 2025-01-01
