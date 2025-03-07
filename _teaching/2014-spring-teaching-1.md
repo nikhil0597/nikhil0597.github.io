@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "IISER Thiruvananthapuram, School of Mathematics"
-date: "2021-2025"
+date: 2025-01-01
 location: "Thiruvananthapuram, India"
 ---
 
