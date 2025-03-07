@@ -9,11 +9,10 @@ location: "Thiruvananthapuram, India"
 ---
 
 
-Heading 1
+Courses
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+MAT211- Multivariable calculus \\
+MAT111- Single variable calculus.\\
+IDC121-  Mathematical Tools II.\\
+MAT314-  Numerical Analysis.\\
+MAT315- Mathematical Statistics.
