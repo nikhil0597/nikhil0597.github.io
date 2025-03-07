@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi! Welcome to my personal website!
 
-I am a Ph.D. candidate in Mathematics at the Indian Institute of Science Education and Research (IISER) Thiruvananthapuram, India. My research focuses on developing and analyzing numerical schemes for hyperbolic conservation laws, a fundamental class of partial differential equations that govern various real-world physical systems. My interests include high-order finite volume schemes, their mathematical stability and convergence analysis, and computational simulations.
+I am a PhD candidate in Mathematics at the Indian Institute of Science Education and Research (IISER) Thiruvananthapuram, India. My research focuses on developing and analyzing numerical schemes for hyperbolic conservation laws, a fundamental class of partial differential equations that govern various real-world physical systems. My interests include high-order finite volume schemes, their mathematical stability and convergence analysis, and computational simulations.
 
 Since childhood, I have enjoyed learning Mathematics, Science, and Literature. I was an avid reader growing up and once dreamed of becoming a writer. During my undergraduate years, while pursuing Mathematics, I was actively involved in artistic and literary circles of my college, writing poems, stories and movie reviews and engaging in discussions on literature and films.
 
