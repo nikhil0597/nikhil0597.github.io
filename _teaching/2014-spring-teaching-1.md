@@ -16,4 +16,4 @@ MAT111- Single variable calculus\\
 IDC121-  Mathematical Tools II\\
 MAT314-  Numerical Analysis\\
 MAT315- Mathematical Statistics\\
-MAT323- General Topology\\
+MAT323- General Topology
