@@ -17,7 +17,7 @@ Mathematics captivated me during those years, and it has kept me hooked ever sin
 
 
 
-<span style="font-family: 'Brush Script MT', cursive; font-size: 1.5em; color: darkgray;">
+<span style="font-family: 'Brush Script MT', cursive; font-size: 1.5em; color: #444444;">
   “While differing widely in the various little bits we know, in our infinite ignorance we are all equal.”
   ― Karl R. Popper
 </span>
