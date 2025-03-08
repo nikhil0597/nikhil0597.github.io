@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "nikhil.png"
   name             : "Nikhil Manoj"
   pronouns         : # example: "she/her"  
   bio              : "Of Math and other demons"
