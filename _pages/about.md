@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-##Welcome to my personal website!  
+Hi! Welcome to my personal website!
 
-I am a **PhD candidate in Mathematics** at [IISER Thiruvananthapuram](https://www.iisertvm.ac.in/), India.
+I am a PhD candidate in Mathematics at the Indian Institute of Science Education and Research (IISER) Thiruvananthapuram, India. 
 
 My research focuses on developing and analyzing numerical schemes for hyperbolic conservation laws, a fundamental class of partial differential equations that govern various real-world physical systems. My interests include high-order finite volume schemes, their mathematical stability and convergence analysis, and computational implementation.
 
