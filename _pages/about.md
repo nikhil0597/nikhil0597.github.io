@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## 👋 Welcome to my personal website!  
+##Welcome to my personal website!  
 
 I am a **PhD candidate in Mathematics** at [IISER Thiruvananthapuram](https://www.iisertvm.ac.in/), India.
 
