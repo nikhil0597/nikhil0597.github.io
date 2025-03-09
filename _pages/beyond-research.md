@@ -21,4 +21,5 @@ Here are some of my favorite books:
 - *Stoner* – John Edward Williams
 - *The Brothers Karamazov* – Fyodor Dostoevsky
 - *The Adventures Of Sherlock Holmes* - Arthur Conan Doyle
+- *India After Gandhi* - Ramachandra Guha
 - *The Beginning Of Infinity* - David Deutsch
