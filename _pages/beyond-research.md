@@ -7,11 +7,11 @@ sidebar:
 ---
 Since childhood, I have enjoyed learning Mathematics, Science, and Literature. I was an avid reader growing up and once dreamed of becoming a writer. During my undergraduate years, while pursuing Mathematics, I was actively involved in the artistic and literary circles of my college, writing poems, stories and movie reviews and engaging in discussions on literature and films.
 
-Mathematics captivated me during those years, and it has kept me hooked ever since. However, I still occasionally write poetry in Malayalam, and I have recently become more interested in reading non-fiction, particularly the philosophy of science and biology—fields that I find deeply fascinating.
-
-Some movie reviews I wrote (in Malayalam) during my undergraduate days as a member of college film club:
+See some movie reviews I wrote (in Malayalam) during my undergraduate days as a member of college film club:
 - [Ship of Theseus](https://magazine.assisijeevan.com/p/717)
 - [Elle](https://magazine.assisijeevan.com/p/448)
+
+I still occasionally write poetry in Malayalam, and I have recently become more interested in reading non-fiction, particularly the philosophy of science and biology—fields that I find deeply fascinating.
 
 ## Some books I loved reading
 Here are some of my favorite books that I keep returning to:
