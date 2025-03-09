@@ -24,3 +24,7 @@ Here are some of my favorite books:
 - *India After Gandhi* - Ramachandra Guha
 - *The Beginning Of Infinity* - David Deutsch
 - *Sapiens* - Yuval Noah Harari
+- *Randidangazhi* – Thakazhi Sivasankara Pillai  
+- *Oru Theruvinte Kadha* – S.K. Pottekkatt  
+- *Sundarikalum Sundaranmaarum* – Uroob  
+- *Pattummayude Aadu* – Basheer  
