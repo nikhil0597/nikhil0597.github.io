@@ -14,7 +14,7 @@ Some movie reviews I wrote (in Malayalam) during my undergraduate days as a memb
 - [Elle](https://magazine.assisijeevan.com/p/448)
 
 ## Some books I loved reading
-Here are some of my favorite books:
+Here are some of my favorite books that I keep returning to:
 - *Anna Karenina* – Leo Tolstoy
 - *The Death of Ivan Illyich* - Leo Tolstoy
 - *Of Human Bondage* – W. Somerset Maugham
