@@ -1,4 +1,4 @@
---
+---
 title: "Beyond Research"
 permalink: /beyond-research/
 toc: true
