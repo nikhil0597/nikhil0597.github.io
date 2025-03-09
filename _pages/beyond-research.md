@@ -23,3 +23,4 @@ Here are some of my favorite books:
 - *The Adventures Of Sherlock Holmes* - Arthur Conan Doyle
 - *India After Gandhi* - Ramachandra Guha
 - *The Beginning Of Infinity* - David Deutsch
+- *Sapiens* - Yuval Noah Harari
