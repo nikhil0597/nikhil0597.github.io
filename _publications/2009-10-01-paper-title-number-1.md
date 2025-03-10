@@ -11,8 +11,4 @@ paperurl: 'https://www.esaim-m2an.org/articles/m2an/pdf/2023/06/m2an230129.pdf'
 citation: 'Gowda G.D.V., Kenettinkara S.K., Manoj N. (2023). &quot;Convergence of a second-order scheme for non-local conservation laws Number 1.&quot; <i>ESAIM: M2AN 1</i>. 1(2).'
 ---
 
-![Figure 1: Example numerical solution](/images/chalons1_zoomedright.pdf)
-
-![Figure 2: Error convergence plot](/images/CPUtime-DVker2.png)
-
 In this article, we present the convergence analysis of a second-order numerical scheme for traffic flow models that incorporate non-local conservation laws. We combine a MUSCL-type spatial reconstruction with strong stability preserving Runge-Kutta time-stepping to devise a fully discrete second-order scheme. The resulting scheme is shown to converge to a weak solution by establishing the maximum principle, bounded variation estimates and L1 Lipschitz continuity in time. Further, using a space-step dependent slope limiter, we prove its convergence to the entropy solution. We also propose a MUSCL-Hancock type second-order scheme which requires only one intermediate stage unlike the Runge-Kutta schemes and is easier to implement. The performance of the proposed second-order schemes in comparison to a first-order scheme is demonstrated through several numerical experiments.
