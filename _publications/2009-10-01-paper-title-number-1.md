@@ -11,8 +11,10 @@ paperurl: 'https://www.esaim-m2an.org/articles/m2an/pdf/2023/06/m2an230129.pdf'
 citation: 'Gowda G.D.V., Kenettinkara S.K., Manoj N. (2023). &quot;Convergence of a second-order scheme for non-local conservation laws Number 1.&quot; <i>ESAIM: M2AN 1</i>. 1(2).'
 ---
 
-![](/images/chalons1-zoomedright-1.png)
-![](/images/CPUtime-DVker2-1.png)
+<p align="center">
+    <img src="/images/chalons1-zoomedright-1.png" alt="Chalons1 Zoomed Right" width="45%">
+    <img src="/images/CPUtime-DVker2-1.png" alt="CPU Time DVker2" width="45%">
+</p>
 
 
 
