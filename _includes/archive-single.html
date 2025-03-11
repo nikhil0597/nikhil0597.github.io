@@ -33,6 +33,18 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+
+    {% if post.image1 or post.image2 %}
+  <div class="archive__item-images">
+    {% if post.image1 %}
+      <img src="{{ post.image1 | prepend: '/images/' | prepend: base_path }}" alt="Publication Image 1" width="45%">
+    {% endif %}
+    {% if post.image2 %}
+      <img src="{{ post.image2 | prepend: '/images/' | prepend: base_path }}" alt="Publication Image 2" width="45%">
+    {% endif %}
+  </div>
+{% endif %}
+
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
