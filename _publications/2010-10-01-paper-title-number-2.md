@@ -9,6 +9,8 @@ venue:
 slidesurl: ''
 paperurl: 'https://arxiv.org/abs/2412.18475'
 citation: 'Manoj N., Gowda G.D.V., Kenettinkara S.K., (2024). &quot;A positivity preserving second-order scheme for multi-dimensional system of non-local conservation laws.&quot; <i>arxiv preprint </i>.'
+image1: "2dnl1.png"
+image2: "2dnl2.png"
 ---
 In this article, we present and analyze a fully discrete second-
 order scheme for a general class of non-local system of conservation laws
