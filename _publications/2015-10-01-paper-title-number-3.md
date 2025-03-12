@@ -1,5 +1,5 @@
 ---
-title: "Analysis of a central MUSCL-type scheme for conservation laws with discontinuous flux."
+title: "Analysis of a central MUSCL-type scheme for conservation laws with discontinuous flux"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
