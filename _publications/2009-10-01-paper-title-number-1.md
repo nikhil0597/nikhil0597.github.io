@@ -3,7 +3,7 @@ title: "Convergence of a second-order scheme for non-local conservation laws"
 collection: publications
 category: manuscripts
 permalink: https://doi.org/10.1051/m2an/2023080
-excerpt: 'In this article, we present the convergence analysis of a second-order numerical scheme for traffic flow models that incorporate non-local conservation laws. '
+excerpt: 'Convergence analysis of a second-order MUSCL-RK type numerical scheme for traffic flow models that incorporate non-local conservation laws. A novel MUSCL-Hancock type single-stage scheme, which is computationally more efficient, is also introduced.'
 date: 2023-11-29
 venue: 'ESAIM: M2AN'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
