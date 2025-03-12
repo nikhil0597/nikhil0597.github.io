@@ -3,7 +3,7 @@ title: "A positivity preserving second-order scheme for multi-dimensional system
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'We present a fully discrete, second-order scheme for a general class of non-local conservation law systems in multiple spatial dimensions.'
+excerpt: 'A fully discrete, provably positive second-order scheme is proposed for a general system of non-local conservation laws in multiple spatial dimensions.'
 date: 2024-12-24
 venue: 
 slidesurl: ''
