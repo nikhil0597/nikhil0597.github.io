@@ -3,7 +3,7 @@ title: "Analysis of a central MUSCL-type scheme for conservation laws with disco
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'Entropy convergence analysis of second-order MUSCL-type scheme for conservation laws with discontinuous flux has remained open. We propose a single-stage Nessyahu-Tadmor central scheme and provide a rigorous convergence analysis of this scheme to the entropy solution of the problem.'
+excerpt: 'Entropy convergence analysis of second-order MUSCL-type scheme for conservation laws with discontinuous flux has remained an open problem. We propose a single-stage Nessyahu-Tadmor central scheme and provide a rigorous convergence analysis of this scheme to the entropy solution, using the theory of compensated compactness.'
 date: 2025-01-10
 slidesurl: ''
 paperurl: 'https://arxiv.org/abs/2501.04620'
