@@ -8,4 +8,4 @@ date: 2024-12-15
 location: "Visakhapatnam, India"
 ---
 
-Tutorial sessions.  
+Managed tutorial sessions on numerical approximations to solutions of differential equations.
