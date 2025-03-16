@@ -5,7 +5,7 @@ toc: true
 sidebar:
   nav: "main"
 ---
-Since childhood, I have enjoyed learning Mathematics, Science, and Literature. I was an avid reader growing up and once dreamed of becoming a writer. During my undergraduate years, while pursuing Mathematics, I was actively involved in the artistic and literary circles of my college, writing poems, stories and movie reviews and engaging in discussions on literature and films. These are some movie reviews I wrote for a magazine (in Malayalam) during my undergraduate days as a member of the college film club:
+Since childhood, I have enjoyed learning Mathematics, Science, and Literature. I was an avid reader growing up and once dreamed of becoming a writer. During my undergraduate years, while pursuing Mathematics, I was actively involved in the artistic and literary circles of my college, writing poems, stories and movie reviews and engaging in discussions on literature and films. These are some movie reviews I wrote for a magazine (in Malayalam) during my undergraduate days:
 - [Ship of Theseus](https://magazine.assisijeevan.com/p/717)
 - [Elle](https://magazine.assisijeevan.com/p/448)
 
