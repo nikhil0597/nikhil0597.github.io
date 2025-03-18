@@ -19,8 +19,9 @@ Currently, I am working on high-order numerical schemes for [non-local conservat
 
 
 
-<span style="font-family: 'Brush Script MT', cursive; font-size: 1.5em; color:#A23E48;">
+<span style="font-family: 'Brush Script MT', cursive; font-size: 1.5em; color:#A23E48; display: block; margin-top: 20px;">
   “While differing widely in the various little bits we know, in our infinite ignorance we are all equal.”
   ― Karl R. Popper
 </span>
+
 
