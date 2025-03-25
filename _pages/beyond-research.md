@@ -14,7 +14,7 @@ I still occasionally write poetry, and have recently become more interested in r
 ## Some books I love
 Here are some of my most favorite books that I keep returning to:
 - *Anna Karenina* – Leo Tolstoy
-- *The Death of Ivan Illyich* - Leo Tolstoy
+- *The Death of Ivan Ilyich* - Leo Tolstoy
 - *Of Human Bondage* – W. Somerset Maugham
 - *Stoner* – John Edward Williams
 - *The Brothers Karamazov* – Fyodor Dostoevsky
