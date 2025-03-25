@@ -20,5 +20,4 @@ Here are some of my most favorite books that I keep returning to:
 - *The Brothers Karamazov* – Fyodor Dostoevsky
 - *India After Gandhi* - Ramachandra Guha
 - *The Beginning Of Infinity* - David Deutsch
-- *Sundarikalum Sundaranmaarum* – Uroob  
-- *Pattummayude Aadu* – Vaikom Muhammad Basheer  
+- *Sundarikalum Sundaranmaarum* – Uroob                                       
