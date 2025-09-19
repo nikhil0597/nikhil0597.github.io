@@ -1,20 +1,18 @@
 ---
 permalink: /
 title: "Nikhil's homepage"
+subtitle: "Postdoctoral researcher (from Nov 2025), University of Würzburg"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hi there! Welcome to my webpage!
 
-I am a PhD candidate in Mathematics at the [Indian Institute of Science Education and Research (IISER) Thiruvananthapuram](https://www.iisertvm.ac.in/), India. My PhD advisor is [Dr. Sudarshan Kumar K](https://www.iisertvm.ac.in/faculty/sudarshan). 
+Hi there! Welcome to my webpage! I am an applied mathematics researcher working on numerical methods for partial differential equations. 
 
-My research focuses on developing and analyzing numerical schemes to approximate the solutions of hyperbolic conservation laws, a fundamental class of partial differential equations that govern various real-world physical systems. I am interested in high-order finite volume schemes, their mathematical stability and convergence analysis, and computational implementation.
+I will be a postdoctoral researcher in the research group of [Prof. Christian Klingenberg](https://ifm.mathematik.uni-wuerzburg.de/~klingen/index.html) at the University of Würzburg, starting from November 2025, where I will be working on genuinely multi-dimensional high order finite-volume methods.   
 
-Currently, I am working on high-order numerical schemes for [non-local conservation laws](https://www.esaim-m2an.org/articles/m2an/abs/2023/06/m2an230129/m2an230129.html) and [conservation laws with discontinuous flux](https://arxiv.org/abs/2501.04620).
-
-
+I completed my PhD thesis in Mathematics at the [Indian Institute of Science Education and Research (IISER) Thiruvananthapuram](https://www.iisertvm.ac.in/), India under the supervision of [Dr. Sudarshan Kumar K](https://www.iisertvm.ac.in/faculty/sudarshan). During my PhD, I worked on high-order numerical schemes for [non-local conservation laws](https://www.esaim-m2an.org/articles/m2an/abs/2023/06/m2an230129/m2an230129.html) and [conservation laws with discontinuous flux](https://arxiv.org/abs/2501.04620).
 
 
 
