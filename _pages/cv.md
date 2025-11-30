@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, IISER Thiruvananthapuram, (ongoing)
+* Ph.D in Mathematics, IISER Thiruvananthapuram, 2025
 * M.Sc. in Mathematics, Cochin University of Science and Technology, 2020
 * B.Sc. in Mathematics, St. Berchmans College, 2018
 
