@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! Welcome to my webpage! I am an applied mathematics researcher working on numerical methods for hyperbolic conservation laws. 
+Hi! I am an applied mathematics researcher working on numerical methods for hyperbolic conservation laws. 
 
 Currently, I am a postdoctoral researcher in the research group of [Prof. Christian Klingenberg](https://ifm.mathematik.uni-wuerzburg.de/~klingen/index.html) at the [University of Würzburg](https://www.uni-wuerzburg.de/en/university/), Germany, where I work on high order finite-volume methods for conservation laws.   
 
