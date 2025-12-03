@@ -1,5 +1,5 @@
 ---
-title: "Analysis of a central MUSCL-type scheme for conservation laws with discontinuous flux"
+title: "Convergence analysis of a MUSCL-type central scheme for conservation laws with discontinuous flux"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
@@ -7,7 +7,7 @@ excerpt: 'Entropy convergence analysis of second-order MUSCL-type scheme for con
 date: 2025-01-10
 slidesurl: ''
 paperurl: 'https://arxiv.org/abs/2501.04620'
-citation: 'Manoj N., Kenettinkara S.K. (2025). &quot;Analysis of a central MUSCL-type scheme for conservation laws with discontinuous flux. &quot; <i> (preprint) </i>.'
+citation: 'Manoj N., Kenettinkara S.K. (2025). &quot;Analysis of a central MUSCL-type scheme for conservation laws with discontinuous flux. &quot; <i> (to appear in IMA journal of Numerical Analysis) </i>.'
 image1: "dflux1.png"
 image2: "dflux2.png"
 ---
