@@ -1,5 +1,5 @@
 ---
-title: "Things I like"
+title: "More about me"
 permalink: /beyond-research/
 toc: true
 sidebar:
