@@ -12,7 +12,7 @@ Hi! I am an applied mathematics researcher working on numerical methods for hype
 
 Currently, I am a postdoctoral researcher in the research group of [Prof. Christian Klingenberg](https://ifm.mathematik.uni-wuerzburg.de/~klingen/index.html) at the [University of Würzburg](https://www.mathematik.uni-wuerzburg.de/en/fluidmechanics/team/nikhil-manoj/), Germany, where I work on high order finite-volume methods for conservation laws.   
 
-I completed my PhD in Mathematics at the [Indian Institute of Science Education and Research (IISER) Thiruvananthapuram](https://www.iisertvm.ac.in/), India where I worked in the research group of [Dr. Sudarshan Kumar K](https://www.iisertvm.ac.in/faculty/sudarshan). During my PhD, I worked on high-order numerical methods for [non-local conservation laws](https://www.esaim-m2an.org/articles/m2an/abs/2023/06/m2an230129/m2an230129.html) and [conservation laws with discontinuous flux](https://arxiv.org/abs/2501.04620). My PhD thesis can be found [here](files/thesis final_Nikhil Manoj.pdf).
+I completed my PhD in Mathematics at the [Indian Institute of Science Education and Research (IISER) Thiruvananthapuram](https://www.iisertvm.ac.in/), India where I worked in the research group of [Dr. Sudarshan Kumar K](https://www.iisertvm.ac.in/faculty/sudarshan). During my PhD, I worked on high-order numerical methods for [nonlocal conservation laws](https://www.esaim-m2an.org/articles/m2an/abs/2023/06/m2an230129/m2an230129.html) and [conservation laws with discontinuous flux](https://arxiv.org/abs/2501.04620). My PhD thesis can be found [here](files/thesis final_Nikhil Manoj.pdf).
 
 
 
