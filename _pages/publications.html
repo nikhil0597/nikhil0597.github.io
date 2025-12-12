@@ -5,32 +5,35 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Publications</h2>
 
-{% include base_path %}
+<ul style="line-height: 1.6; font-size: 1.05em;">
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  <li>
+    <strong>Convergence of a second-order scheme for non-local conservation laws</strong><br>
+    N. Manoj, V.G. Gowda, S.K. Kenettinkara.<br>
+    <em>ESAIM: M2AN</em>, 57(6), 3439–3481 (2023).
+  </li>
 
+  <li>
+    <strong>Convergence analysis of a MUSCL-type central scheme for conservation laws with discontinuous flux</strong><br>
+    N. Manoj, S.K. Kenettinkara.<br>
+    <em>IMA Journal of Numerical Analysis</em> (to appear, 2025).<br>
+    <a href="https://doi.org/10.1093/imanum/draf136">https://doi.org/10.1093/imanum/draf136</a>
+  </li>
 
+  <li>
+    <strong>A positivity preserving second-order scheme for multi-dimensional system of non-local conservation laws</strong><br>
+    N. Manoj, V.G. Gowda, S.K. Kenettinkara.<br>
+    (preprint, 2024).<br>
+    <a href="https://arxiv.org/abs/2412.18475">arXiv:2412.18475</a>
+  </li>
 
+  <li>
+    <strong>A MUSCL-Hancock scheme for non-local conservation laws</strong><br>
+    N. Manoj, V.G. Gowda, S.K. Kenettinkara.<br>
+    (preprint, 2025).<br>
+    <a href="https://arxiv.org/abs/2506.04176">arXiv:2506.04176</a>
+  </li>
+
+</ul>
