@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "nixite"
 title_separator          : "-"
 name                     : &name "Nikhil Manoj"
-description              : &description "Postdoctoral researcher, Würzburg, Germany"
+description              : &description "Postdoctoral researcher, University of Würzburg, Germany"
 url                      : https://nikhil0597.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -221,7 +221,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
