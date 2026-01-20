@@ -19,5 +19,6 @@ Here are some of my most favorite books that I keep returning to:
 - *Stoner* – John Edward Williams
 - *The Brothers Karamazov* – Fyodor Dostoevsky
 - *India After Gandhi* - Ramachandra Guha
+- *1984* - George Orwell
 - *The Beginning Of Infinity* - David Deutsch
 - *Sundarikalum Sundaranmaarum* – Uroob                                       
