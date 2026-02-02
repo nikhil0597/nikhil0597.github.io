@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an applied mathematics researcher working on numerical methods for hyperbolic conservation laws. 
+Hi! I am a researcher in applied mathematics working on the theory and numerics of partial differential equations (PDEs). I work on hyperbolic conservation laws, a fundamental class of PDEs that provide a framework for describing physical phenomena involving flow, for instance through the conservation of mass, momentum, and energy. My research focuses on developing accurate and efficient numerical methods to approximate the solutions to different classes of conservation laws. 
 
 Currently, I am a postdoctoral researcher in the research group of [Prof. Christian Klingenberg](https://ifm.mathematik.uni-wuerzburg.de/~klingen/index.html) at the [University of Würzburg](https://www.mathematik.uni-wuerzburg.de/en/fluidmechanics/team/nikhil-manoj/), Germany, where I work on developing high order finite-volume methods for conservation laws.   
 
