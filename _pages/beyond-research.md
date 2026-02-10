@@ -9,7 +9,7 @@ Since childhood, I have enjoyed learning Mathematics, Science, and Literature. I
 - [Ship of Theseus](https://magazine.assisijeevan.com/p/717)
 - [Elle](https://magazine.assisijeevan.com/p/448)
 
-I still occasionally write poetry, and have recently become more interested in reading non-fiction, particularly the philosophy of science and biology. The way science has transformed human life over the past few centuries never ceases to amaze me.  
+I still occasionally write poetry, and have recently become more interested in reading non-fiction, particularly science. The way science has transformed human life over the past few centuries never ceases to amaze me.  
 
 ## Some books I love
 Here are some of my most favorite books that I keep returning to:
@@ -20,5 +20,6 @@ Here are some of my most favorite books that I keep returning to:
 - *The Brothers Karamazov* – Fyodor Dostoevsky
 - *India After Gandhi* - Ramachandra Guha
 - *1984* - George Orwell
+- *Six Easy Pieces* - Richard Feynman
 - *The Beginning Of Infinity* - David Deutsch
 - *Sundarikalum Sundaranmaarum* – Uroob                                       
