@@ -12,7 +12,7 @@ Since childhood, I have enjoyed learning Mathematics, Science, and Literature. I
 I still occasionally write poetry, and have recently become more interested in reading non-fiction, particularly science. The way science has transformed human life over the past few centuries never ceases to amaze me.  
 
 ## Some books I love
-Here are some of my most favorite books that I keep returning to:
+Here are some of my most favorite books:
 - *Anna Karenina* – Leo Tolstoy
 - *The Death of Ivan Ilyich* - Leo Tolstoy
 - *Of Human Bondage* – W. Somerset Maugham
