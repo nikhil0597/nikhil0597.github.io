@@ -18,5 +18,4 @@ Here are some of my most favorite books:
 - *1984* - George Orwell
 - *The Blind Watchmaker* - Richard Dawkins
 - *India After Gandhi* - Ramachandra Guha
-- *Six Easy Pieces* - Richard Feynman
 - *The Beginning Of Infinity* - David Deutsch
