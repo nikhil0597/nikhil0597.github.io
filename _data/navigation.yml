@@ -11,8 +11,8 @@ main:
   - title: "Research"
     url: /publications/ 
     
-  - title: "Photos"
-    url: /portfolio/
+  #- title: "Photos"
+   # url: /portfolio/
 
   - title: "Other"
     url: "/beyond-research/"
