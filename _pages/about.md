@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Nikhil Manoj"
 subtitle: "Postdoctoral researcher (from Nov 2025), University of Würzburg"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<h1 style="font-weight: normal; margin-top: 0;">Nikhil Manoj</h1>
 
 Hi! I am a researcher in applied mathematics working on the theory and numerics of partial differential equations (PDEs). I work on hyperbolic conservation laws, a fundamental class of PDEs that provide a framework for describing physical phenomena involving flow, for instance through the conservation of mass, momentum, and energy. My research focuses on developing accurate and efficient numerical methods to approximate the solutions to different classes of conservation laws. 
 
