@@ -20,6 +20,21 @@ I completed my PhD in Mathematics at the [Indian Institute of Science Education 
 
 
 
+
+
 <span style="color: #666666;">*"While differing widely in the various little bits we know, in our infinite ignorance we are all equal."* — Karl R. Popper</span>
+
+
+<div style="text-align: center; margin-top: 4em; padding-top: 2em;">
+  <a href="mailto:nikhilmanoj2020@iisertvm.ac.in" style="margin: 0 15px; color: #4a4a4a; font-size: 1.8em; text-decoration: none;" title="Email"><i class="fas fa-envelope"></i></a>
+  
+  <a href="https://scholar.google.com/citations?user=pt3q4wQAAAAJ&hl=en" style="margin: 0 15px; color: #4a4a4a; font-size: 1.8em; text-decoration: none;" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
+  
+  <a href="INSERT_YOUR_ORCID_LINK_HERE" style="margin: 0 15px; color: #4a4a4a; font-size: 1.8em; text-decoration: none;" title="ORCID"><i class="fab fa-orcid"></i></a>
+  
+  <a href="INSERT_YOUR_RESEARCHGATE_LINK_HERE" style="margin: 0 15px; color: #4a4a4a; font-size: 1.8em; text-decoration: none;" title="ResearchGate"><i class="fab fa-researchgate"></i></a>
+  
+  <a href="INSERT_YOUR_TWITTER_LINK_HERE" style="margin: 0 15px; color: #4a4a4a; font-size: 1.8em; text-decoration: none;" title="X (Twitter)"><i class="fab fa-twitter"></i></a>
+</div>
 
 
