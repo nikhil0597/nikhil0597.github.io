@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "nikhil.png"
-  name             : "Nikhil Manoj"
+  #name             : "Nikhil Manoj"
   pronouns         : # example: "she/her"  
-  bio              : "Of Math and other demons"
+  #bio              : "Of Math and other demons"
   #location         : "Würzburg"
   #employer         : "University of Würzburg"
   #uri              : # URL
