@@ -1,4 +1,12 @@
 ---
+permalink: /
+subtitle: "Postdoctoral researcher (from Nov 2025), University of Würzburg"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 <style>
   /* 1. Force the Matte Coral Link Color with a smooth transition */
   a { 
@@ -29,13 +37,7 @@
     transform: translateY(-3px); /* Gives a tiny upward "bump" */
   }
 </style>
-permalink: /
-subtitle: "Postdoctoral researcher (from Nov 2025), University of Würzburg"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 <h1 style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
   <span style="font-weight: 400; color: #4a4a4a;">Nikhil</span> 
