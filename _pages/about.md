@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nikhil's homepage"
+title: "Nikhil Manoj"
 subtitle: "Postdoctoral researcher (from Nov 2025), University of Würzburg"
 author_profile: true
 redirect_from: 
