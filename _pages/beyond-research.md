@@ -7,7 +7,7 @@ permalink: /beyond-research/
 </h1>
 
 <p style="line-height: 1.6; font-size: 1.05em;">
-  Since childhood, I have enjoyed learning Mathematics, Science, and Literature. Reading was my greatest joy favorite thing growing up, and I once dreamed of becoming a writer. I occasionally write poetry, and have recently become more interested in reading non-fiction, particularly science. The way science has transformed human life over the past few centuries never ceases to amaze me.
+  Since childhood, I have enjoyed learning Mathematics, Science, and Literature. Reading was my greatest joy growing up, and I once dreamed of becoming a writer. I occasionally write poetry, and have recently become more interested in reading non-fiction, particularly science. The way science has transformed human life over the past few centuries never ceases to amaze me.
 </p>  
 
 <h2 style="font-weight: 400; font-size: 1.3em; color: #4a4a4a; margin-top: 2em; border-bottom: none;">Some books I love</h2>
