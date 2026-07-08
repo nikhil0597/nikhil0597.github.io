@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "nixite"
+title                    : "about"
 title_separator          : "-"
 name                     : &name "Nikhil Manoj"
 description              : &description "Postdoctoral researcher, University of Würzburg, Germany"
