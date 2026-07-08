@@ -1,8 +1,8 @@
 main:
-  - title: "Research"
+  - title: "research"
     url: /publications/
 
-  - title: "Other"
+  - title: "other"
     url: /beyond-research/
 
   #- title: "Blog Posts"
