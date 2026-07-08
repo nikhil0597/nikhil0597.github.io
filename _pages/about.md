@@ -19,14 +19,7 @@ redirect_from:
     text-decoration: underline; 
   }
 
-  /* 2. The Avatar Hover Reveal */
-  .author__avatar img { 
-    filter: grayscale(100%); 
-    transition: filter 0.5s ease-in-out; 
-  }
-  .author__avatar img:hover { 
-    filter: grayscale(0%); 
-  }
+ 
 
   /* 3. Footer Icon Hover Effect (Turns coral when hovered) */
   .fas, .fab { 
