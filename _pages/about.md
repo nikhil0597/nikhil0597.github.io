@@ -16,6 +16,6 @@ I completed my PhD in Mathematics at the [Indian Institute of Science Education 
 
 
 
-*"While differing widely in the various little bits we know, in our infinite ignorance we are all equal."* — Karl R. Popper
+<span style="color: #666666;">*"While differing widely in the various little bits we know, in our infinite ignorance we are all equal."* — Karl R. Popper</span>
 
 
