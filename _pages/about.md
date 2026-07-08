@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <h1 style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
-  <span style="font-weight: 700; color: #222222;">Nikhil</span> 
+  <span style="font-weight: 700; color: #4a4a4a;">Nikhil</span> 
   <span style="font-weight: 300; color: #777777;">Manoj</span>
 </h1>
 
