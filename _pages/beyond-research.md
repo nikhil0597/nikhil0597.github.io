@@ -1,10 +1,14 @@
 ---
-title: "More about me"
+#title: "More about me"
 permalink: /beyond-research/
 toc: true
 sidebar:
   nav: "main"
 ---
+
+<h1 style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif;"> 
+  <span style="font-weight: 400; color: #777777;">More about me</span>
+</h1>
 Since childhood, I have enjoyed learning Mathematics, Science, and Literature. I was an avid reader growing up and once dreamed of becoming a writer. During my undergraduate years, while pursuing Mathematics, I was actively involved in the artistic and literary circles of my college, writing poems, stories and movie reviews and engaging in discussions on literature and films. I still occasionally write poetry, and have recently become more interested in reading non-fiction, particularly science. The way science has transformed human life over the past few centuries never ceases to amaze me.  
 
 ## Some books I love
