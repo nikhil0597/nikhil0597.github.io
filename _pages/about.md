@@ -9,7 +9,7 @@ redirect_from:
 
 <h1 style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
   <span style="font-weight: 400; color: #4a4a4a;">Nikhil</span> 
-  <span style="font-weight: 300; color: #777777;">Manoj</span>
+  <span style="font-weight: 400; color: #777777;">Manoj</span>
 </h1>
 
 Hi! I am a researcher in applied mathematics working on the theory and numerics of partial differential equations (PDEs). I work on hyperbolic conservation laws, a fundamental class of PDEs that provide a framework for describing physical phenomena involving flow, for instance through the conservation of mass, momentum, and energy. My research focuses on developing accurate and efficient numerical methods to approximate the solutions to different classes of conservation laws. 
