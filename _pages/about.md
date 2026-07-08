@@ -30,11 +30,10 @@ I completed my PhD in Mathematics at the [Indian Institute of Science Education 
   
   <a href="https://scholar.google.com/citations?user=pt3q4wQAAAAJ&hl=en" style="margin: 0 15px; color: #4a4a4a; font-size: 1.8em; text-decoration: none;" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
   
-  <a href="INSERT_YOUR_ORCID_LINK_HERE" style="margin: 0 15px; color: #4a4a4a; font-size: 1.8em; text-decoration: none;" title="ORCID"><i class="fab fa-orcid"></i></a>
+  <a href="https://orcid.org/0009-0003-6812-8633" style="margin: 0 15px; color: #4a4a4a; font-size: 1.8em; text-decoration: none;" title="ORCID"><i class="fab fa-orcid"></i></a>
   
-  <a href="INSERT_YOUR_RESEARCHGATE_LINK_HERE" style="margin: 0 15px; color: #4a4a4a; font-size: 1.8em; text-decoration: none;" title="ResearchGate"><i class="fab fa-researchgate"></i></a>
+  <a href="https://www.researchgate.net/profile/Nikhil-Manoj-3" style="margin: 0 15px; color: #4a4a4a; font-size: 1.8em; text-decoration: none;" title="ResearchGate"><i class="fab fa-researchgate"></i></a>
   
-  <a href="INSERT_YOUR_TWITTER_LINK_HERE" style="margin: 0 15px; color: #4a4a4a; font-size: 1.8em; text-decoration: none;" title="X (Twitter)"><i class="fab fa-twitter"></i></a>
 </div>
 
 
