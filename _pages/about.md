@@ -1,4 +1,34 @@
 ---
+<style>
+  /* 1. Force the Matte Coral Link Color with a smooth transition */
+  a { 
+    color: #d9534f !important; 
+    text-decoration: none; 
+    transition: color 0.3s ease; 
+  }
+  a:hover { 
+    color: #b5413e !important; 
+    text-decoration: underline; 
+  }
+
+  /* 2. The Avatar Hover Reveal */
+  .author__avatar img { 
+    filter: grayscale(100%); 
+    transition: filter 0.5s ease-in-out; 
+  }
+  .author__avatar img:hover { 
+    filter: grayscale(0%); 
+  }
+
+  /* 3. Footer Icon Hover Effect (Turns coral when hovered) */
+  .fas, .fab { 
+    transition: color 0.3s ease, transform 0.3s ease; 
+  }
+  a:hover .fas, a:hover .fab { 
+    color: #d9534f !important; 
+    transform: translateY(-3px); /* Gives a tiny upward "bump" */
+  }
+</style>
 permalink: /
 subtitle: "Postdoctoral researcher (from Nov 2025), University of Würzburg"
 author_profile: true
