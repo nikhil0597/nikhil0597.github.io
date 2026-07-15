@@ -4,9 +4,39 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+  /* 1. Force the Matte Coral Link Color with a smooth transition */
+  a { 
+    color: #d9534f !important; 
+    text-decoration: none; 
+    transition: color 0.3s ease; 
+  }
+  a:hover { 
+    color: #b5413e !important; 
+    text-decoration: underline; 
+  }
+
+  /* 3. Footer Icon Hover Effect (Turns coral when hovered) */
+  .fas, .fab { 
+    transition: color 0.3s ease, transform 0.3s ease; 
+  }
+  a:hover .fas, a:hover .fab { 
+    color: #d9534f !important; 
+    transform: translateY(-3px); /* Gives a tiny upward "bump" */
+  }
+</style>
+
 <h1 style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif;"> 
   <span style="font-weight: 400; color: #777777;">Research</span>
 </h1>
+
+My research interests include:
+
+* High-order numerical schemes for hyperbolic conservation laws
+* Active flux numerical scheme 
+* Nonlocal conservation laws
+* Conservation laws with nonlocal flux
+* Rigorous convergence analysis of numerical schemes
 
 <h2 style="font-weight: 400; font-size: 1.3em; color: #4a4a4a; margin-top: 1.5em; border-bottom: none;">Publications / Preprints</h2>
 
